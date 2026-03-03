@@ -7,7 +7,7 @@
 
 ## 🎥 Demo Video
 
-🔗 [Watch here](./demo/Project%2028.mov)
+<video src="./demo/Project 28.mov" controls width="800"></video>
 
 ---
 
@@ -29,7 +29,14 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](Your LinkedIn Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([LinkedIn Profile](https://www.linkedin.com/in/rahul-sharma-94960a248/))
+
+---
+
+---
+
+## 📢 LinkedIn Post
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
 
 ---
 
