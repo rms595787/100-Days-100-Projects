@@ -1,14 +1,13 @@
-# 🚀 Fade Out
+# 🚀 3D Nav
 
-> A smooth scrolling effect that fades elements as the user scrolls.
+> A smooth 3D rotating navigation powered by CSS perspective.   
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
-
-🔗 Watch here: [Video](./demo/Project%2022.mov)
-<video src="./demo/Project 22.mov" controls width="800"></video>
+🔗 Watch here: [Video](./demo/Project%2032.mov)   
+<video src="./demo/Project 32.mov" controls width="800"></video>
 
 ---
 
@@ -22,9 +21,20 @@
 
 ## 🧠 What I Learned
 
-- Using **window events** effectively
-- Working with the **scroll** event
-- Reading scroll height to apply clean fading animations
+* The **CSS perspective** property and how it creates 3D depth.
+* How developers use it in:
+
+  * rotating cards
+  * 3D navigation
+  * product showcases
+  * VR-like UIs
+* Learned child selectors in CSS like:
+
+  * `nth-child()`
+  * `first-child`
+  * `last-child`
+  * `nth-of-type()`
+  * And how they help create complex animations easily.
 
 ---
 
@@ -38,7 +48,6 @@
 
 ## 📢 LinkedIn Post
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
-
 
 ---
 

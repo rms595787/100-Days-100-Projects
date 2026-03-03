@@ -1,14 +1,14 @@
-# 🚀 Fade Out
+# 🚀 Read More / Read Less
 
-> A smooth scrolling effect that fades elements as the user scrolls.
+> Expandable content UI with smooth interactions.  
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 Watch here: [Video](./demo/Project%2022.mov)
-<video src="./demo/Project 22.mov" controls width="800"></video>
+🔗 Watch here: [Video](./demo/Project%2036.mov)  
+<video src="./demo/Project 36.mov" controls width="800"></video>
 
 ---
 
@@ -22,9 +22,12 @@
 
 ## 🧠 What I Learned
 
-- Using **window events** effectively
-- Working with the **scroll** event
-- Reading scroll height to apply clean fading animations
+- Different ways to create expandable sections:
+  - Using `visibility`
+  - Using `display: none/block`
+  - Using HTML `<details>` and `<summary>`
+
+- How to combine JS with CSS for smooth read-more animations.
 
 ---
 
@@ -37,8 +40,8 @@
 ---
 
 ## 📢 LinkedIn Post
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
 
 ---
 

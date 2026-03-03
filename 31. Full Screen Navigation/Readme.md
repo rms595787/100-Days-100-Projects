@@ -1,14 +1,16 @@
-# 🚀 Random Emojies
+# 🚀 Full Screen Navigation
 
-> A fun generator that throws random emojis every time you interact!
+> A beautiful full-screen navigation animation for modern UI.   
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 Watch here: [Video](./demo/Project%2021.mov)
-<video src="./demo/Project 21.mov" controls width="800"></video>
+🔗 Watch here: [Video](./demo/Project%2031.mov)     
+<video src="./demo/Project 31.mov" controls width="800"></video>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -20,9 +22,27 @@
 
 ## 🧠 What I Learned
 
-- Handling quick DOM updates
-- Creating fun, interactive UI elements
-- Generating random values cleanly
+- How we can pass values inside HTML tags using **data-\*** attributes
+  Example:
+
+  ```html
+  <div data-color="red"></div>
+  ```
+
+- How to access them in JavaScript using
+
+  ```js
+  element.dataset.color;
+  ```
+
+- Learned the **pointerover** event → triggers whenever a pointing device moves onto an element.
+  Useful in hover-based animations.
+- Explored properties like
+  - `this.offsetWidth`
+  - `this.offsetHeight`
+  - `this.offsetTop`
+  - `this.offsetLeft`
+    These values help us calculate size, position, and dynamic UI interactions.
 
 ---
 

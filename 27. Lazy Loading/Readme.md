@@ -7,6 +7,7 @@
 
 ## 🎥 Demo Video
 
+🔗 Watch here: [Video](./demo/Project%2027.mov)
 <video src="./demo/Project 27.mov" controls width="800"></video>
 
 ---

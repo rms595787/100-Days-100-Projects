@@ -1,14 +1,14 @@
-# 🚀 Fade Out
+# 🚀 Image Gallery
 
-> A smooth scrolling effect that fades elements as the user scrolls.
+> A clean image gallery layout built using CSS Grid.  
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 Watch here: [Video](./demo/Project%2022.mov)
-<video src="./demo/Project 22.mov" controls width="800"></video>
+🔗 Watch here: [Video](./demo/Project%2035.mov)  
+<video src="./demo/Project 35.mov" controls width="800"></video>
 
 ---
 
@@ -22,9 +22,15 @@
 
 ## 🧠 What I Learned
 
-- Using **window events** effectively
-- Working with the **scroll** event
-- Reading scroll height to apply clean fading animations
+- How powerful **CSS Grid** is
+- Useful properties like:
+  - `grid-template-columns`
+  - `grid-template-rows`
+  - `gap`
+  - `place-items`
+  - `repeat()`
+
+- How Grid helps build responsive layouts faster than flex.
 
 ---
 
@@ -37,8 +43,8 @@
 ---
 
 ## 📢 LinkedIn Post
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
 
 ---
 

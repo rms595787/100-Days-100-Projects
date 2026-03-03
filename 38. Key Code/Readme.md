@@ -1,14 +1,13 @@
-# 🚀 Fade Out
+# 🚀 Key Code
 
-> A smooth scrolling effect that fades elements as the user scrolls.
+> Exploring keyboard events with real-time key data.            
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
-
-🔗 Watch here: [Video](./demo/Project%2022.mov)
-<video src="./demo/Project 22.mov" controls width="800"></video>
+🔗 Watch here: [Video](./demo/Project%2038.mov)         
+<video src="./demo/Project 38.mov" controls width="800"></video>
 
 ---
 
@@ -22,9 +21,19 @@
 
 ## 🧠 What I Learned
 
-- Using **window events** effectively
-- Working with the **scroll** event
-- Reading scroll height to apply clean fading animations
+- Using:
+  - `e.key`
+  - `e.keyCode`
+  - `e.code`
+
+- Real-life examples:
+  - Game controls
+  - Keyboard shortcuts
+  - Search bars
+  - Input validation
+  - Global hotkeys
+
+- Getting keyboard input is extremely simple yet powerful.
 
 ---
 
@@ -38,7 +47,6 @@
 
 ## 📢 LinkedIn Post
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
-
 
 ---
 
