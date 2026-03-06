@@ -1,15 +1,14 @@
-# 🚀 Project 41
+# 🚀 Project 44
 
-> Working with live dynamic data from the internet.     
+> Exploring different ways to manipulate DOM styles dynamically.
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 Watch here: 
-[Video](./demo/Project%2041.mov)            
-<video src="./demo/Project 41.mov" controls width="800"></video>
+🔗 Watch here: [Video](./demo/Project%2044.mov)         
+<video src="./demo/Project 44.mov" controls width="800"></video>
 
 ---
 
@@ -23,24 +22,39 @@
 
 ## 🧠 What I Learned
 
-Working with **live dynamic data from the internet** is one of the most exciting parts of development because it mimics how **real production applications operate**.
+One of the most important skills in frontend development is **manipulating the DOM dynamically**.
 
-Instead of storing images locally, this project fetches **random images dynamically using an external image API**:
+This project explores two common approaches.
+
+The first approach directly modifies inline styles using JavaScript:
 
 ```
-https://picsum.photos/width/height/?random=number
+element.style.backgroundColor = "blue"
 ```
 
-This means every request generates a **completely new image**, making the interface dynamic without maintaining large asset libraries.
+While this works, it quickly becomes messy in larger projects.
 
-For developers, this concept is extremely useful when building things like:
+A better approach is **toggling CSS classes** using:
 
-* Image galleries
-* Random background generators
-* Landing pages
-* Content feeds
+```
+element.classList.add()
+element.classList.remove()
+```
 
-Understanding how to **consume dynamic resources from APIs** is a core skill used in almost every modern web application.
+This keeps styling inside CSS and logic inside JavaScript — a much cleaner separation.
+
+Another important concept explored here is **identifying the correct element during events**.
+
+Techniques like:
+
+```
+e.target.tagName
+e.target.closest()
+```
+
+allow developers to determine exactly which element triggered the event.
+
+This becomes extremely useful when building **interactive components such as menus, cards, rating systems, or dynamic lists**.
 
 ---
 

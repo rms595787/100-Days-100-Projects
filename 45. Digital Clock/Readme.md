@@ -1,15 +1,14 @@
-# 🚀 Project 41
+# 🚀 Project 45
 
-> Working with live dynamic data from the internet.     
+> Exploring JavaScript date and time handling.          
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 Watch here: 
-[Video](./demo/Project%2041.mov)            
-<video src="./demo/Project 41.mov" controls width="800"></video>
+🔗 Watch here: [Video](./demo/Project%2045.mov)         
+<video src="./demo/Project 45.mov" controls width="800"></video>
 
 ---
 
@@ -23,24 +22,30 @@
 
 ## 🧠 What I Learned
 
-Working with **live dynamic data from the internet** is one of the most exciting parts of development because it mimics how **real production applications operate**.
+Handling **date and time** in applications is more important than it initially seems.
 
-Instead of storing images locally, this project fetches **random images dynamically using an external image API**:
+Every modern system relies on time data for things like:
 
-```
-https://picsum.photos/width/height/?random=number
-```
+* timestamps
+* event scheduling
+* reminders
+* logs
+* real-time clocks
 
-This means every request generates a **completely new image**, making the interface dynamic without maintaining large asset libraries.
+In this project I experimented with JavaScript’s built-in **Date object**, which allows developers to access detailed time information.
 
-For developers, this concept is extremely useful when building things like:
+Using this object we can extract things like:
 
-* Image galleries
-* Random background generators
-* Landing pages
-* Content feeds
+* current day
+* month
+* year
+* hours
+* minutes
+* seconds
 
-Understanding how to **consume dynamic resources from APIs** is a core skill used in almost every modern web application.
+Functions like `toLocaleString()` also help format time automatically based on the user's region, which is extremely useful when building **international applications**.
+
+Understanding how to manipulate time properly is essential when building dashboards, scheduling systems, or real-time interfaces.
 
 ---
 

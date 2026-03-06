@@ -1,15 +1,14 @@
-# 🚀 Project 41
+# 🚀 Project 43
 
-> Working with live dynamic data from the internet.     
+> Exploring CSS pseudo selectors and regex validation.      
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 Watch here: 
-[Video](./demo/Project%2041.mov)            
-<video src="./demo/Project 41.mov" controls width="800"></video>
+🔗 Watch here: [Video](./demo/Project%2043.mov)     
+<video src="./demo/Project 43.mov" controls width="800"></video>
 
 ---
 
@@ -23,24 +22,30 @@
 
 ## 🧠 What I Learned
 
-Working with **live dynamic data from the internet** is one of the most exciting parts of development because it mimics how **real production applications operate**.
+Inputs may look simple, but browsers actually provide powerful styling capabilities using **pseudo selectors**.
 
-Instead of storing images locally, this project fetches **random images dynamically using an external image API**:
+This project explores selectors like:
 
 ```
-https://picsum.photos/width/height/?random=number
+input::placeholder
+input::placeholder::before
+input::placeholder::after
 ```
 
-This means every request generates a **completely new image**, making the interface dynamic without maintaining large asset libraries.
+These allow developers to customize placeholder appearance and enhance UI feedback.
 
-For developers, this concept is extremely useful when building things like:
+Another powerful concept explored here was **Regular Expressions (Regex)**.
 
-* Image galleries
-* Random background generators
-* Landing pages
-* Content feeds
+Regex allows developers to match patterns inside text, making it extremely useful for validating user input such as:
 
-Understanding how to **consume dynamic resources from APIs** is a core skill used in almost every modern web application.
+* Email formats
+* Password rules
+* Phone numbers
+* Username requirements
+
+Instead of writing complex conditional logic, developers can define validation rules using a **single regex pattern**, making form validation both powerful and efficient.
+
+Understanding regex opens the door to **robust input validation systems used in real applications**.
 
 ---
 

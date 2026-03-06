@@ -1,15 +1,14 @@
-# 🚀 Project 41
+# 🚀 Project 46
 
-> Working with live dynamic data from the internet.     
+> Exploring file uploads using HTML input elements.             
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 Watch here: 
-[Video](./demo/Project%2041.mov)            
-<video src="./demo/Project 41.mov" controls width="800"></video>
+🔗 Watch here: [Video](./demo/Project%2046.mov)      
+<video src="./demo/Project 46.mov" controls width="800"></video>
 
 ---
 
@@ -23,24 +22,30 @@
 
 ## 🧠 What I Learned
 
-Working with **live dynamic data from the internet** is one of the most exciting parts of development because it mimics how **real production applications operate**.
+Uploading files on the web might look simple from the user’s perspective, but it powers some of the most widely used features on the internet.
 
-Instead of storing images locally, this project fetches **random images dynamically using an external image API**:
+In this project I experimented with:
 
+```id="v2ok7s"
+<input type="file">
 ```
-https://picsum.photos/width/height/?random=number
+
+This single HTML element allows users to **select and upload files directly from their device**.
+
+Behind the scenes, JavaScript can access the uploaded file using:
+
+```id="0av7hx"
+input.files[0]
 ```
 
-This means every request generates a **completely new image**, making the interface dynamic without maintaining large asset libraries.
+This is the same mechanism used by applications like:
 
-For developers, this concept is extremely useful when building things like:
+* Google Drive
+* LinkedIn resume uploads
+* profile picture upload systems
+* document submission portals
 
-* Image galleries
-* Random background generators
-* Landing pages
-* Content feeds
-
-Understanding how to **consume dynamic resources from APIs** is a core skill used in almost every modern web application.
+Understanding how file inputs work helps developers build systems that **accept user-generated content and process it efficiently**.
 
 ---
 
@@ -61,3 +66,4 @@ Understanding how to **consume dynamic resources from APIs** is a core skill use
 ⭐ If you found this helpful, consider giving it a star!
 
 ---
+
