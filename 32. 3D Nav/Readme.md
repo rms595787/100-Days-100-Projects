@@ -1,12 +1,13 @@
 # 🚀 3D Nav
 
-> A smooth 3D rotating navigation powered by CSS perspective.   
+> A smooth 3D rotating navigation powered by CSS perspective.  
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
-🔗 Watch here: [Video](./demo/Project%2032.mov)   
+
+🔗 Watch here: [Video](./demo/Project%2032.mov)  
 <video src="./demo/Project 32.mov" controls width="800"></video>
 
 ---
@@ -21,33 +22,33 @@
 
 ## 🧠 What I Learned
 
-* The **CSS perspective** property and how it creates 3D depth.
-* How developers use it in:
+- The **CSS perspective** property and how it creates 3D depth.
+- How developers use it in:
+  - rotating cards
+  - 3D navigation
+  - product showcases
+  - VR-like UIs
 
-  * rotating cards
-  * 3D navigation
-  * product showcases
-  * VR-like UIs
-* Learned child selectors in CSS like:
-
-  * `nth-child()`
-  * `first-child`
-  * `last-child`
-  * `nth-of-type()`
-  * And how they help create complex animations easily.
+- Learned child selectors in CSS like:
+  - `nth-child()`
+  - `first-child`
+  - `last-child`
+  - `nth-of-type()`
+  - And how they help create complex animations easily.
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([LinkedIn Profile](https://www.linkedin.com/in/rahul-sharma-94960a248/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-sharma-94960a248/)
 
 ---
 
 ---
 
 ## 📢 LinkedIn Post
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/posts/rahul-sharma-94960a248_html-css-javascript-activity-7434802410352537600-Gwit?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1QkMkBhwXCizY0WuwGuWpwdxhpxwhhA8o)
 
 ---
 

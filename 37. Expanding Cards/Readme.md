@@ -1,12 +1,13 @@
 # 🚀 Expanding Cards
 
-> Beautiful animated expanding card layout.         
+> Beautiful animated expanding card layout.  
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
-🔗 Watch here: [Video](./demo/Project%2037.mov)         
+
+🔗 Watch here: [Video](./demo/Project%2037.mov)  
 <video src="./demo/Project 37.mov" controls width="800"></video>
 
 ---
@@ -37,18 +38,18 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([LinkedIn Profile](https://www.linkedin.com/in/rahul-sharma-94960a248/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-sharma-94960a248/)
 
 ---
 
 ---
 
 ## 📢 LinkedIn Post
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/posts/rahul-sharma-94960a248_html-css-javascript-activity-7434802410352537600-Gwit?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1QkMkBhwXCizY0WuwGuWpwdxhpxwhhA8o)
 
 ---
 
 ⭐ If you found this helpful, consider giving it a star!
 
 ---
-

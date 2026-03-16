@@ -1,13 +1,13 @@
 # 🚀 Copy & Move
 
-> A utility tool to copy text and move it effortlessly across inputs.
+> A utility tool to copy text and move it effortlessly across inputs.   
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 Watch here: [Video](./demo/Project%2024.mov)
+🔗 Watch here: [Video](./demo/Project%2024.mov)   
 <video src="./demo/Project 24.mov" controls width="800"></video>
 
 ---
@@ -34,15 +34,14 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([LinkedIn Profile](https://www.linkedin.com/in/rahul-sharma-94960a248/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-sharma-94960a248/)
 
 ---
 
 ---
 
 ## 📢 LinkedIn Post
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D)
 
 ---
 

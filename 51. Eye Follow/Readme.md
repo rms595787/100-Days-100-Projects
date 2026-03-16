@@ -1,14 +1,14 @@
 # 🚀 Project 51
 
-> Creating interactive effects using CSS pseudo elements and cursor tracking.       
+> Creating interactive effects using CSS pseudo elements and cursor tracking.  
 > Built as part of my 100 Projects Challenge.
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 Watch here: 
-[Video](./demo/Project%2051.mov)        
+🔗 Watch here:
+[Video](./demo/Project%2051.mov)  
 <video src="./demo/Project 51.mov" controls width="800"></video>
 
 ---
@@ -41,7 +41,7 @@ This shows how combining **CSS creativity with JavaScript math** can create surp
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([LinkedIn Profile](https://www.linkedin.com/in/rahul-sharma-94960a248/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-sharma-94960a248/)
 
 ---
 
@@ -49,7 +49,7 @@ This shows how combining **CSS creativity with JavaScript math** can create surp
 
 ## 📢 LinkedIn Post
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:7434092659713118208/?originTrackingId=FJn1v2khMgr0ZvCaV4xfUg%3D%3D)
 
 ---
 
